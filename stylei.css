@@ -1,0 +1,27 @@
+.table{
+display: flex   ;
+width: 900px;
+flex-wrap: wrap;
+
+
+}
+.table .icon{
+    width: 300px;
+  padding-left: 50px;
+    border: 1px solid ;
+    position: relative;
+    left: 800px;
+    }
+    .table .icon:hover{
+background-color: antiquewhite;
+
+
+    }
+.header{
+position: relative;
+left: 250px;
+top: 100px;
+
+
+
+    }
